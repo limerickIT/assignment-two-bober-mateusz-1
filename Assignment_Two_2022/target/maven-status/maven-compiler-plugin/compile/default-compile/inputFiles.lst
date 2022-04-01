@@ -1,7 +1,11 @@
+C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\helperclass\PDFhelper.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\repository\BreweryRepository.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\model\Beer.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\service\BreweryService.java
+C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\service\CategoryService.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\repository\BeerRepository.java
+C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\service\StyleService.java
+C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\repository\CategoryRepository.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\model\Brewery.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\application\AssignmentTwo2022Application.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\model\Breweries_Geocode.java
@@ -11,5 +15,6 @@ C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\application\ServletInitializer.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\helperclass\ShortBeerAndBrewery.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\model\Category.java
+C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\repository\StyleRepository.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\service\BeerService.java
 C:\Users\venom\Desktop\Assignment Two\assignment-two-bober-mateusz-1\Assignment_Two_2022\src\main\java\com\sd4\controller\BreweryController.java
